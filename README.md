@@ -1,2 +1,4 @@
-# Creating-Simple-Linear-Regression-Model
-Creating Simple Linear Regression Model to Predict delivery time using sorting time
+# simple-linear-regression
+salary data dataset -simple linear regression
+Build a prediction model for Salary_hike
+
